@@ -25,7 +25,7 @@ export const PROJECTS = [
     technologies: ["React","Tailwind CSS","Javascript"],
   },
   {
-    url:"http://13.61.9.132/",
+    url:"#",
     title: ".Connect",
     image: project2,
     description:
@@ -35,7 +35,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Kaggaladu, Sira Taluk, Tumakuru District, karnataka, India",
+  address: "Behind Kaveri Hospital, Konappana Agrahaara, Electronic City, Bengaluru, karnataka, India",
   phoneNo: "+91 7975490341",
   email: "sathishk1632@gmail.com ",
 };
